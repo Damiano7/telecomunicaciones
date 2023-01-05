@@ -16,14 +16,9 @@ Esto muestra una oportunidad para volver a implementar programas de fomentos y/o
 
 
 
-*Internet_acc_vel
-*Internet_map
-*Internet_penet_prov
-*Internet_tec
-*Internet_tec_prov
-*Internet_vel
 
-Calendario
-Inversiones
-Provincias
-Servicios (*Internet_penet, *Telefonia, *Television)
+El mercado de telecomunicaciones ha experimentado un fuerte crecimiento en los últimos años, lo que indica una mayor demanda de servicios de telecomunicaciones por parte de los consumidores.
+Las nuevas tecnologías y avances en la infraestructura han permitido ofrecer servicios de mayor calidad y mayor velocidad a los consumidores, lo que ha contribuido al crecimiento del mercado.
+El mercado de telecomunicaciones es altamente competitivo, lo que ha llevado a una mayor innovación y a la oferta de mejores precios y condiciones a los consumidores.
+Los consumidores cada vez valoran más la calidad y la confiabilidad de los servicios de telecomunicaciones, lo que ha llevado a una mayor atención al servicio al cliente por parte de las empresas.
+Los avances en la tecnología de la información y las comunicaciones han impulsado el crecimiento del mercado de telecomunicaciones y se espera que esta tendencia continúe en el futuro.
