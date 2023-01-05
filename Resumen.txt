@@ -1,0 +1,29 @@
+Speech
+
+Buenas tardes, mi nombre es Damián Buch y soy analista de datos en la empresa Henry. A continuación, les presentaré el informe solicitado sobre las telecomunicaciones en Argentina
+
+Antes que nada, quiero informarles que toda la información se obtuvo del Ente Nacional de Comunicaciones de Argentina (ENACOM), lo que garantiza la integridad de los datos utilizados en este informe.
+
+En todo momento, el informe tuvo un enfoque económico que buscaba maximizar las ganancias de la empresa al analizar el mercado de las comunicaciones para encontrar cómo y dónde expandir la empresa
+
+No es lo mismo invertir en un mercado que esta en crecimiento que en uno que esta decreciendo
+
+
+
+
+Esto muestra una oportunidad para volver a implementar programas de fomentos y/o inversión para operadores locales, sobre todo en aquellos lugares donde la concentración de usuarios no es lo suficiente para atraer a los grandes operadores, lo cual ayudaría a reducir la brecha de accesibilidad, precio y calidad en todas las regiones o provincias
+
+
+
+
+*Internet_acc_vel
+*Internet_map
+*Internet_penet_prov
+*Internet_tec
+*Internet_tec_prov
+*Internet_vel
+
+Calendario
+Inversiones
+Provincias
+Servicios (*Internet_penet, *Telefonia, *Television)
